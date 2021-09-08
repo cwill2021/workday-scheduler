@@ -18,13 +18,13 @@ textarea {
   }
   
   button {
-    background-color: darkturquoise;
+    background-color: palevioletred;
     border-radius: 0px 5px 5px 0px;
   }
   
   header {
     border-bottom-width: 10px;
-    text-color: rgb(255, 255, 255);
+    color: black;
   }
   
   button {
